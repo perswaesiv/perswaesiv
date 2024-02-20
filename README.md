@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @perswaesiv
 - 👀 I’m interested in self improvement
-- 🌱 I’m currently learning React, Tailwind, and Framer Motion
-- 💞️ I’m looking to collaborate on Micro SAAS projects
+- 🌱 I’m currently learning React, Next.JS, Tailwind, and Framer Motion
+- 🤯 I'm excited about the future of headless technology and composable architectures
+- 💞️ I’m looking to collaborate on strategic web app endeavors (SWAE)
 - 📫 Reach me at perswaesiv@gmail.com
 
 <!---
