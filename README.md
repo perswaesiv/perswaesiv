@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @perswaesiv
+- 👋 Hi, I’m Swae
 - 👀 I’m interested in self improvement and mobile app development
 - 🌱 I’m currently learning React Native and Next.JS
 - 🤯 I'm excited about the future of headless technology and composable architectures
